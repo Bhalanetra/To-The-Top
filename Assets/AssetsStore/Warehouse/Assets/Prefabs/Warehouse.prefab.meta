@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 915dc7858198e944ab924f9a572315aa
+timeCreated: 1523920127
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116767
+  packageName: Old Warehouse
+  packageVersion: 1.0
+  assetPath: Assets/AssetsStore/Warehouse/Assets/Prefabs/Warehouse.prefab
+  uploadId: 241034
